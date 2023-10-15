@@ -1,16 +1,15 @@
-# Hard Boiled Egg Smart Stove - Powered by ARM
----
+## Hard Boiled Egg Smart Stove - Powered by ARM
 This hardware engineering project cooks an egg to various doneness levels (soft/medium/hard boiled) powered by components programmed at a low level, versus with libraries. The hardware is accomplished by an [ARM development board](https://www.st.com/en/evaluation-tools/nucleo-f401re.html) coordinating a [soldering plate](https://www.amazon.com/Remover-Heating-Soldering-Welding-Station/dp/B07W1ZZH8T/ref=sr_1_7?crid=2AFZ1592ZUTRB&keywords=soldering+plate&qid=1696189254&sprefix=soldering+plat%2Caps%2C165&sr=8-7), [LCD Character Display](https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-0420H1Z-FSW-GBW-33V3/2773595), [temperature sensor](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/DS1631/680597), and other small components to cook an egg in a user-friendly process.
 
-## Motivation
+### Motivation
 Wanting to grow my microcontroller skills even outside work hours, I completed an online course on ARM processors before self-appointing a project to manifest all that I learned. Having used all the above components throughout the course minus the soldering plate, I embraced my inner foodie (and past as a DIY food automation YouTuber youtube.com/astonishingstudios) to make a stove that automates the cooking process, while being flexible enough to acknowledge users’ preferred egg donenesses.
 
-## Video Demonstration
+### Video Demonstration
 [CLICK HERE TO WATCH](https://youtu.be/pxwZWfczoWY) TODO Url
 
 [![Hard Boiled Egg Smart Stove](README-images/SMARTSTOVEshadow.png)](https://youtu.be/pxwZWfczoWY) TODO Url
 
-## Hardware
+### Hardware
 * [STM32F401 Nucleo-64 Development Board](https://www.amazon.com/NUCLEO-F401RE-Nucleo-64-Development-STM32F401RE-connectivity/dp/B07JYBPWN4/ref=sr_1_2?crid=1AK4VF3DM7H2B&keywords=nucleo+f401re&qid=1697328825&sprefix=nucleo+f4%2Caps%2C76&sr=8-2)
 * [Soldering Hot Plate](https://www.amazon.com/Remover-Heating-Soldering-Welding-Station/dp/B07W1ZZH8T/ref=sr_1_7?crid=2AFZ1592ZUTRB&keywords=soldering+plate&qid=1696189254&sprefix=soldering+plat%2Caps%2C165&sr=8-7)
 * [Newhaven LCD NHD-0420H1Z-FSW-GBW-33V3](https://www.amazon.com/Newhaven-Display-NHD-0420H1Z-FSW-GBW-33V3-Character-Modules/dp/B00Q7WEEEI/ref=sr_1_1?crid=X9QLTBSUY7ZU&keywords=newhaven+33v3&qid=1697328878&sprefix=newhaven+33v3%2Caps%2C70&sr=8-1)
@@ -68,7 +67,7 @@ After texts stops moving and compiling in the lower panel of the screen, tap the
 
 Finally, get cooking!
 
-## Future Possibilities
+### Future Possibilities
 The soldering plate, which only has on and off modes, makes for an adequate stove because it gets hot enough to boil an egg, but not hotter. An alternative that features temperature control would enable this project to show my PID skills, too.
 
 Similarly, the temperature sensor can read up to 125 degrees Celsius, or 257 degrees Fahrenheit, meaning choosing another sensor would enable the stove to cook other items, especially cuts of meat.
