@@ -22,7 +22,7 @@ Wanting to grow my microcontroller skills even outside work hours, I completed a
 * [Maxim DS1631 Temperature Sensor](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/DS1631/680597)
 * [NPN Transistor](https://www.amazon.com/Adafruit-NPN-Bipolar-Transistors-PN2222/dp/B00XW2OK7M/ref=sr_1_6?crid=GJ8K6OBG7VGY&keywords=npn+transistor&qid=1697328713&sprefix=npn+transistor%2Caps%2C78&sr=8-6)
 * [10KΩ, 4.7KΩ, 1KΩ, 330Ω Resistors](https://www.amazon.com/Projects-100EP51210K0-10k-Resistors-Pack/dp/B0185FIOTA/ref=sr_1_3?crid=1YWLRAP82U5DW&keywords=10k+resistors&qid=1697329012&sprefix=1k+resistors%2Caps%2C60&sr=8-3)
-* [Red and Green LEDs] (https://www.amazon.com/Mixse-Emitting-Assorted-Arduino-Electronics/dp/B07C65Z9Z6/ref=sr_1_4?crid=KRX5FG4JCAVK&keywords=red+and+green+leds+arduino&qid=1697338743&sprefix=red+and+green+leds+arduino%2Caps%2C78&sr=8-4)
+* [Red and Green LEDs](https://www.amazon.com/Mixse-Emitting-Assorted-Arduino-Electronics/dp/B07C65Z9Z6/ref=sr_1_4?crid=1DUQXE6RHR98K&keywords=red+and+green+leds+arduino&qid=1697339829&sprefix=red+and+green+leds+arduino%2Caps%2C107&sr=8-4)
 * [4 Pin Push Bottons](https://www.amazon.com/Gikfun-6x6x5mm-Switch-Button-Arduino/dp/B00R17XUFC/ref=sr_1_3?crid=39GSTUK551V99&keywords=arduino+push+button&qid=1697329292&sprefix=arduino+push+button%2Caps%2C93&sr=8-3)
 * [Piezo Buzzer](https://www.amazon.com/a15091400ux0103-Electronic-Mounting-Passive-Sounder/dp/B018I1WBNQ/ref=sr_1_6?crid=1SZ1B06W7EBE1&keywords=piezo+buzzer&qid=1697329333&sprefix=piezo+buzzer%2Caps%2C83&sr=8-6)
 * [Jumper Wires](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_4?crid=OAKL7UY5QU9W&keywords=jumper%2Bwires&qid=1697329362&sprefix=jumper%2Bwires%2Caps%2C84&sr=8-4&th=1)
