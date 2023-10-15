@@ -7,7 +7,7 @@ Wanting to grow my microcontroller skills even outside work hours, I completed a
 ### Video Demonstration
 [CLICK HERE TO WATCH](https://youtu.be/pxwZWfczoWY) TODO Url
 
-[![Hard Boiled Egg Smart Stove](README-images/SMARTSTOVEshadow.png)](https://youtu.be/pxwZWfczoWY) TODO Url
+[![Hard Boiled Egg Smart Stove](README-images/SMARTSTOVEshadow.png)](https://youtu.be/pxwZWfczoWY)
 
 ### Hardware
 * [STM32F401 Nucleo-64 Development Board](https://www.amazon.com/NUCLEO-F401RE-Nucleo-64-Development-STM32F401RE-connectivity/dp/B07JYBPWN4/ref=sr_1_2?crid=1AK4VF3DM7H2B&keywords=nucleo+f401re&qid=1697328825&sprefix=nucleo+f4%2Caps%2C76&sr=8-2)
