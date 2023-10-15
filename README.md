@@ -74,7 +74,7 @@ Finally, get cooking!
 ## How to Operate
 Fill the egg jar with 3 ounces of room temperature water. Gently place a quail egg in the jar.
 
-![Egg & Cup](README-images/eggincup.jpg)
+![Egg & Cup](README-images/eggprep.gif)
 
 Place the jar on the hot plate and cover the top of the jar. Ensure the temperature sensor 
 
@@ -82,11 +82,14 @@ Tap the button associated with input pin D8, the `Browse` button, to toggle the 
 
 After settling on the the preferred option, hit the button associated with input pin D7: the `Confirm` button.
 
-![hitting the Confirm Button](README-images/confirmlcd.jpg)
+![hitting the Confirm button](README-images/confirmlcd.jpg)
 
 Wait for the temperature, read out on the LCD screen, to reach 150 degrees Fahrenheit, before the cooking countdown begins.
 
+![Temperature Ascending Fast-Forward](README-images/temprising.gif)
+
 Once cooking completes, grab the jar by the threads, uncover it, spoon out the egg and de-shell the finished egg. Bon appetit!
+![Taking out the egg](README-images/eggreveal.gif)
 
 ### Future Possibilities
 The soldering plate, which only has on and off modes, makes for an adequate stove because it gets hot enough to boil an egg, but not hotter. An alternative that features temperature control would enable this project to show my PID skills, too.
