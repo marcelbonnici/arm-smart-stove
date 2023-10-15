@@ -33,6 +33,7 @@ The Nucleo-64 electronic schematic can be followed below:
 
 ![Schematic](README-images/schematic.jpg) TODO
 
+* Ensure the temperature sensor is the only sensor connected to the 170 pin breadboard, and make sure to mount the breaboard sideways so it can touch the egg jar while being heated
 ### Requirements
 The code files require:
 1. [MBed Studio](https://os.mbed.com/studio/)
@@ -66,6 +67,21 @@ After texts stops moving and compiling in the lower panel of the screen, tap the
 ![Development Board Reset Button](README-images/resetbtn.jpg)
 
 Finally, get cooking!
+
+## How to Operate
+Fill the egg jar with 3 ounces of room temperature water. Gently place a quail egg in the jar.
+![Egg & Cup](README-images/eggincup.jpg)
+
+Place the jar on the hot plate and cover the top of the jar. Ensure the temperature sensor 
+
+Tap the button associated with input pin D8, the `Browse` button, to toggle the 3 desired doneness options: soft boiled, medium boiled, and hard boiled.
+
+After settling on the the preferred option, hit the button associated with input pin D7: the `Confirm` button.
+![hitting the Confirm Button](README-images/confirmlcd.jpg)
+
+Wait for the temperature, read out on the LCD screen, to reach 150 degrees Fahrenheit, before the cooking countdown begins.
+
+Once cooking completes, grab the jar by the threads, uncover it, spoon out the egg and de-shell the finished egg. Bon appetit!
 
 ### Future Possibilities
 The soldering plate, which only has on and off modes, makes for an adequate stove because it gets hot enough to boil an egg, but not hotter. An alternative that features temperature control would enable this project to show my PID skills, too.
