@@ -7,7 +7,7 @@
 DigitalIn browse(D8);
 DigitalIn confirm(D7);
 DigitalOut relay(D4);
-BusOut leds(D5, D6); //D5 is red (oven ON), D6 is green (water is boiling)
+BusOut leds(D5, D6);  //D5 is red (oven ON), D6 is green (water is boiling)
 void browsing();
 void count_down(double &duration, double &elapsed_time, time_t &start);
 void preheating(const char *doneness, float maxtemp);
