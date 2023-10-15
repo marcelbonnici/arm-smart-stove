@@ -82,8 +82,6 @@ Tap the button associated with input pin D8, the `Browse` button, to toggle the 
 
 After settling on the the preferred option, hit the button associated with input pin D7: the `Confirm` button.
 
-![hitting the Confirm button](README-images/confirmlcd.jpg)
-
 Wait for the temperature, read out on the LCD screen, to reach 150 degrees Fahrenheit, before the cooking countdown begins.
 
 ![Temperature Ascending Fast-Forward](README-images/temprising.gif)
