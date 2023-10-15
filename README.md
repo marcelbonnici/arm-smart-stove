@@ -5,7 +5,7 @@ This hardware engineering project cooks an egg to various doneness levels (soft/
 Wanting to grow my microcontroller skills even outside work hours, I completed an online course on ARM processors before self-appointing a project to manifest all that I learned. Having used all the above components throughout the course minus the soldering plate, I embraced my inner foodie (and past as a DIY food automation YouTuber youtube.com/astonishingstudios) to make a stove that automates the cooking process, while being flexible enough to acknowledge users’ preferred egg donenesses.
 
 ### Video Demonstration
-[CLICK HERE TO WATCH](https://youtu.be/wuRwlOgdVMc
+[CLICK HERE TO WATCH](https://youtu.be/wuRwlOgdVMc)
 
 [![Hard Boiled Egg Smart Stove](README-images/SMARTSTOVEshadow.png)](https://youtu.be/wuRwlOgdVMc)
 
