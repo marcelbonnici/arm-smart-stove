@@ -8,11 +8,11 @@ struct Doneness{
 struct Doneness *doneness_ptr; //point to selected doneness
 struct Doneness Soft={
     .name="Soft Boiled",
-    .duration=2
+    .duration=4
 };
 struct Doneness Medium={
     .name="Medium Boiled",
-    .duration=3
+    .duration=5
 };
 struct Doneness Hard={
     .name="Hard Boiled",
