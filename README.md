@@ -41,7 +41,7 @@ The code files require:
 ## How to Run the Code
 Open the MBed Studio software
 
-Sign up for or sign into your account to get started
+Sign up for or sign into your account to get started.
 ![Login Page Screenshot](README-images/login.png)
 
 Via the USB cable, plug in the Nucleo device to the computer. The computer should detect this and automatically select it as the target.
