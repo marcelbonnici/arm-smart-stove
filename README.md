@@ -50,6 +50,7 @@ Via the USB cable, plug in the Nucleo device to the computer. The computer shoul
 Download this GitHub repository locally to your computer. For newcomers to GitHub, click the green `Code` button followed by `Download ZIP`. Extract the downloaded ZIP file.
 
 In Mbed Studio, click `File > New Program`, select `empty Mbed OS program` from the window's `Example program`'s drop-down list, and fill `Program name` filed with a fitting name. Make sure `Make this the active program` is checked off.
+
 ![New Program Screenshot](README-images/newprogram.png)
 
 From the left panel, right click `main.cpp` from inside the folder with the program name and click `Delete`. Right click the program name and hit `Copy Path`.
@@ -61,15 +62,18 @@ Open another file explorer tab, enter the unzipped folder, and copy these four f
 Return to the first file explorer tab that was opened and paste the four files into it.
 
 In Mbed Studio, click the Run symbol (play button) in the left panel to compile and download the program to the development board.
+
 ![Compile & Run Screenshot](README-images/runandcompile.png)
 
 After texts stops moving and compiling in the lower panel of the screen, tap the black `RESET` button on the development board to see the LCD turn on.
+
 ![Development Board Reset Button](README-images/resetbtn.jpg)
 
 Finally, get cooking!
 
 ## How to Operate
 Fill the egg jar with 3 ounces of room temperature water. Gently place a quail egg in the jar.
+
 ![Egg & Cup](README-images/eggincup.jpg)
 
 Place the jar on the hot plate and cover the top of the jar. Ensure the temperature sensor 
@@ -77,6 +81,7 @@ Place the jar on the hot plate and cover the top of the jar. Ensure the temperat
 Tap the button associated with input pin D8, the `Browse` button, to toggle the 3 desired doneness options: soft boiled, medium boiled, and hard boiled.
 
 After settling on the the preferred option, hit the button associated with input pin D7: the `Confirm` button.
+
 ![hitting the Confirm Button](README-images/confirmlcd.jpg)
 
 Wait for the temperature, read out on the LCD screen, to reach 150 degrees Fahrenheit, before the cooking countdown begins.
