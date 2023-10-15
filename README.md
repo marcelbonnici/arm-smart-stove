@@ -60,7 +60,7 @@ Open another file explorer tab, enter the unzipped folder, and copy these four f
 Return to the first file explorer tab that was opened and paste the four files into it.
 
 In Mbed Studio, click the Run symbol (play button) in the left panel to compile and download the program to the development board.
-![Compile & Run Screenshot](README-images/compileandrun.png)
+![Compile & Run Screenshot](README-images/runandcompile.png)
 
 After texts stops moving and compiling in the lower panel of the screen, tap the black `RESET` button on the development board to see the LCD turn on.
 ![Development Board Reset Button](README-images/resetbtn.jpg)
