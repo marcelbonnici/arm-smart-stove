@@ -5,9 +5,9 @@ This hardware engineering project cooks an egg to various doneness levels (soft/
 Wanting to grow my microcontroller skills even outside work hours, I completed an online course on ARM processors before self-appointing a project to manifest all that I learned. Having used all the above components throughout the course minus the soldering plate, I embraced my inner foodie (and past as a DIY food automation YouTuber youtube.com/astonishingstudios) to make a stove that automates the cooking process, while being flexible enough to acknowledge users’ preferred egg donenesses.
 
 ### Video Demonstration
-[CLICK HERE TO WATCH](https://youtu.be/pxwZWfczoWY) TODO Url
+[CLICK HERE TO WATCH](https://youtu.be/wuRwlOgdVMc
 
-[![Hard Boiled Egg Smart Stove](README-images/SMARTSTOVEshadow.png)](https://youtu.be/pxwZWfczoWY)
+[![Hard Boiled Egg Smart Stove](README-images/SMARTSTOVEshadow.png)](https://youtu.be/wuRwlOgdVMc)
 
 ### Hardware
 * [STM32F401 Nucleo-64 Development Board](https://www.amazon.com/NUCLEO-F401RE-Nucleo-64-Development-STM32F401RE-connectivity/dp/B07JYBPWN4/ref=sr_1_2?crid=1AK4VF3DM7H2B&keywords=nucleo+f401re&qid=1697328825&sprefix=nucleo+f4%2Caps%2C76&sr=8-2)
