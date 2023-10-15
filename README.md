@@ -89,6 +89,7 @@ Wait for the temperature, read out on the LCD screen, to reach 150 degrees Fahre
 ![Temperature Ascending Fast-Forward](README-images/temprising.gif)
 
 Once cooking completes, grab the jar by the threads, uncover it, spoon out the egg and de-shell the finished egg. Bon appetit!
+
 ![Taking out the egg](README-images/eggreveal.gif)
 
 ### Future Possibilities
